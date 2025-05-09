@@ -15,7 +15,7 @@
   </a>
 </div>
 
-<p align="left">✉️ <a href="mailto:hello@saile.dev">hello@saile.dev<br>✉️ <a href="mailto:saile@twitch.no">saile@twitch.no</a></p>
+<p align="left">✉️ <a href="mailto:contact@saile.dev">contact@saile.dev<br>✉️ <a href="mailto:saile@twitch.no">saile@twitch.no</a></p>
 
 ---
 
