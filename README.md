@@ -1,5 +1,4 @@
 - 2nd year computer science student @ UiA Grimstad, Norway.
-- Currently learning Go
 
 ---
 
